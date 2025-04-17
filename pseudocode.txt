@@ -1,0 +1,19 @@
+analyze_sales.c
+calleth thy methods before the main method to solidify and rectify thy methods, bring in thy packages if when so necessary
+force thy user to input their own responses, make sure thy answers are validated and appreciated so then print as needed and call back to the other maketh files that have the methods to are which necessary.
+Thy program handles user input for their decision and to intake and retreive thy file nameth
+One must call the appropriate function based on thy user input
+Prints results here bruv
+sales_functions.c
+one must call thy methods before the main to solidify/rectify them bringeth in thy necessary packages so if so that is to be called upon and used within the following code.
+methods: thee shall calculate thy profits and thy revenue. Maketh thy will to do of the upmost important math and then maketh a third method that calculate profit and revenue for a single and only a single item within
+overall_revenue:
+thee shall read thy file that user inputs to calculate thy total revenue within thy method so that total revenue is written within and then printed later on when called upon thee.
+overall_profit:
+shall read thy file that user inputed to calculate the total profit which is later used to be called upon to thy printed with thy info necessary for such profits that if so is needed to be called upon which is called upon
+report_one:
+reads the file user inputs to calculate revenue and profit for a specific item for it to be used at a later given time for then thee to be called upon and printed for thy info that it is to be used and to be calculated and necessary to be printed with
+prints the results yesir brotha
+sales_function.h
+call-eth thy methods if so before thy main to rectify within the code eloquently then after thy processs is due and done thy code shall introduce in packages which is thy necessary
+for then for it to be maketh so much so that it can be the bridge in the maketh for thy remaining classes or the other 2 claess that are made on top of the .h file.
